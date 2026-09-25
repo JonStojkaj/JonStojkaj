@@ -2,7 +2,7 @@
 
 **BSc Computer Science Student @ ETH Zurich**
 
-Currently writing my Bachelor's thesis on Deep Learning and Medical Imaging (cardiac MRI analysis). Open for SWE/ML Internships for Summer 2027.
+Currently in my last semester and will be starting my Masters in Computer Science at ETH next semester. Open to an Internship in summer 2027.
 
 ### What I'm building
 
