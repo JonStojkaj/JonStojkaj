@@ -2,7 +2,7 @@
 
 **BSc Computer Science Student @ ETH Zurich**
 
-Currently in my last semester and will be starting my Masters in Computer Science at ETH next semester. Open to an Internship in summer 2027.
+Currently in my last semester and will be starting my Masters in Computer Science at ETH next semester.
 
 ### What I'm building
 
