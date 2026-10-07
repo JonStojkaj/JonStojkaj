@@ -7,7 +7,8 @@ Currently in my last semester and will be starting my Masters in Computer Scienc
 ### What I'm building
 
 * **[Vortex Engine](https://github.com/JonStojkaj/Vortex-Event-Streaming-Engine)** - Data Engineering & Fraud Detection Pipeline
-* **[FPL AI](https://github.com/JonStojkaj/FPL-AI-Engine)** - Predictive Data Model for Fantasy Premier League
+* **[FPL Engine](https://github.com/JonStojkaj/FPL-Decision-Engine)** - Predictive Data Model for Fantasy Premier League
+* **[SBB Aws pipeline](https://github.com/JonStojkaj/sbb-aws-pipeline)** - Predictive Data Model for Fantasy Premier League
 * **[Shoqata Studenti](https://github.com/shoqata-studenti/shoqata-studenti-uebfaqe)** - Full-Stack Web Platform
 
 **Contact:** jstojkaj@ethz.ch
