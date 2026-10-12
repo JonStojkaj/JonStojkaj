@@ -7,7 +7,7 @@ Currently in my last semester and will be starting my Masters in Computer Scienc
 ### What I'm building
 
 * **[SBB Aws pipeline](https://github.com/JonStojkaj/sbb-aws-pipeline)** - Event-driven AWS data pipeline for real-time SBB transit data ingestion and transformation
-* **[Vortex Engine](https://github.com/JonStojkaj/Vortex-Event-Streaming-Engine)** - Data Engineering & Fraud Detection Pipeline
+* **[Vortex Engine](https://github.com/JonStojkaj/Vortex-Event-Streaming-Engine)** - Fraud Detection Pipeline
 * **[FPL Engine](https://github.com/JonStojkaj/FPL-Decision-Engine)** - Predictive Data Model for Fantasy Premier League
 * **[TurboCore](https://github.com/JonStojkaj/TurboCore)** - High-performance C++/CUDA float compression engine saturating memory bandwidth at 58.9 GiB/s via AVX2
 * **[Shoqata Studenti](https://github.com/shoqata-studenti/shoqata-studenti-uebfaqe)** - Full-Stack Web Platform
