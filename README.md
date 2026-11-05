@@ -10,6 +10,6 @@
 * **[SBB AWS Pipeline](https://github.com/JonStojkaj/sbb-aws-pipeline)** – Scheduled serverless ETL pipeline for real-time SBB train data on AWS, with Terraform and data-quality checks
 * **[LogLens](https://github.com/JonStojkaj/LogLens)** – MCP server that lets AI agents search, summarize and correlate service logs, with read-only tools and every number computed in code
 * **[FPL Decision Engine](https://github.com/JonStojkaj/FPL-Decision-Engine)** – Mixed-integer optimizer that plans Fantasy Premier League transfers over four gameweeks
-* **[Shoqata Studenti](https://github.com/shoqata-studenti/shoqata-studenti-uebfaqe)** – Web platform of the Albanian Student Association, which I run as Head of IT
+* **[Shoqata Studenti](https://github.com/shoqata-studenti/shoqata-studenti-uebfaqe)** – Web platform of the Albanian Student Association.
 
 **Contact:** jstojkaj@ethz.ch · [LinkedIn](https://linkedin.com/in/jon-stojkaj)
